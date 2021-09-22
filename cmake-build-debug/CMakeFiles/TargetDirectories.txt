@@ -1,0 +1,3 @@
+/home/sy/Repo/Cpp/network/HelloServ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sy/Repo/Cpp/network/HelloServ/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sy/Repo/Cpp/network/HelloServ/cmake-build-debug/CMakeFiles/HelloServ.dir

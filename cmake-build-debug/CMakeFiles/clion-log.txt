@@ -1,0 +1,4 @@
+/home/sy/downloads/CLion-2021.2.1/clion-2021.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/sy/Repo/Cpp/network/HelloServ
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sy/Repo/Cpp/network/HelloServ/cmake-build-debug
