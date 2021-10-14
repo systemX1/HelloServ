@@ -82,16 +82,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/sy/Repo/Cpp/network/HelloServ/src/echo.h">
-			<Option target="HelloServ"/>
-		</Unit>
 		<Unit filename="/home/sy/Repo/Cpp/network/HelloServ/src/main.cpp">
 			<Option target="HelloServ"/>
 		</Unit>
-		<Unit filename="/home/sy/Repo/Cpp/network/HelloServ/src/util/csapp.cpp">
+		<Unit filename="/home/sy/Repo/Cpp/network/HelloServ/src/util/threadPool.cpp">
 			<Option target="HelloServ"/>
 		</Unit>
-		<Unit filename="/home/sy/Repo/Cpp/network/HelloServ/src/util/csapp.h">
+		<Unit filename="/home/sy/Repo/Cpp/network/HelloServ/src/util/threadPool.h">
 			<Option target="HelloServ"/>
 		</Unit>
 		<Unit filename="/home/sy/Repo/Cpp/network/HelloServ/src/util/util.cpp">
